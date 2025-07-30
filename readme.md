@@ -9,6 +9,6 @@
 | Rodriech Nkarakwi (Canada)| Emmanuel Ngufor (Canada)| Mbikwa Maurice (pending)|
 | Fredrick Frunwi (Canada)| Issac Gill (Canada)    | Fru Yvonne (USA)        |
 | Anjleena Masih (Canada)| Esther Masih (Canada)   | Stephanie Barfi (Canada)|
-| Divine Ngantcha (Canada)| Frank Udoh (Canada)    | Veron Akum (USA)        |
-| Celestine Fon (USA)     | Nelson Ijenwa          | Scot Linda              |
-|                         | Brandon Randell (Canada)|   |
+| Divine Ngantcha (Canada)| Nelson Ijenwa   | Veron Akum (USA)              |
+| Celestine Fon (USA)     | Brandon Randell (Canada)| Scot Linda              |
+|                         |                          | Frank Udoh (Canada)  |
