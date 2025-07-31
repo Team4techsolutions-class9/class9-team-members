@@ -11,4 +11,4 @@
 | Anjleena Masih (Canada)| Esther Masih (Canada)   | Stephanie Barfi (Canada)|
 | Divine Ngantcha (Canada)| Nelson Ijenwa   | Veron Akum (USA)              |
 | Celestine Fon (USA)     | Brandon Randell (Canada)| Scot Linda              |
-| Ibrahim Naleba (Canada) |                          |                       |
+| Ibrahim Naleba (Canada) | Ngaha Guy                        |                       |
