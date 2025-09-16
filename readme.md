@@ -9,6 +9,6 @@
 | Rodriech Nkarakwi (Canada) Assistant| Emmanuel Ngufor (Canada) Team Lead| Mbikwa Maurice (pending)|
 | Fredrick Frunwi (Canada)| Issac Gill (Canada)    | Fru Yvonne (USA)        |
 | Anjleena Masih (Canada)| Esther Masih (Canada)   | Stephanie Barfi (Canada)|
-| Divine Ngantcha (Canada)| Nelson Ijenwa   | Veron Akum (USA)              |
-| Celestine Fon (USA)     | Brandon Randell (Canada)| Scot Linda              |
-| Ibrahim Naleba (Canada) | Ngaha Guy                        |                       |
+| Celestine Fon (USA)                           | Nelson Ijenwa   | Veron Akum (USA)              |
+|  Ibrahim Naleba (Canada)                       | Brandon Randell (Canada)| Scot Linda              |
+|  | Ngaha Guy                        |                       |
